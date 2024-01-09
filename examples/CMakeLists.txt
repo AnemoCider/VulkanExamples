@@ -170,7 +170,7 @@ endfunction(buildExamples)
 # )
 
 set(EXAMPLES
-	practice_triangle
+	triangle
 )
 
 buildExamples()
